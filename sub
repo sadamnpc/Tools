@@ -1,2 +1,2 @@
-#do substrussction
+#do substrussctio n well
 echo $(($1 - $2))
